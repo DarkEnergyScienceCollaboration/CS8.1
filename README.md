@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Parameterization of the mock catalogs for DC2 and DC3
 
 Summary -- Develop the tools and the validation of the various prescriptions for generating mock catalogs
 including appropriate colors, sizes, morphologies and correlations with density ( based on the requirements
